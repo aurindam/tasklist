@@ -11,7 +11,7 @@ Window {
     height: 360
 
     property var locale: Qt.locale()
-    property string dbName: "PipelineDummy"
+    property string dbName: "Pipeline"
 
     ToolBar {
         id: toolbar
